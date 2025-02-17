@@ -1,4 +1,4 @@
-# Image Filtering with Gaussian, Sobel, and Median Filters
+# Image Filtering with Gaussian, Sobel and Median Filters
 ### Aim
 This project applies and analyzes the effects of three key image processing filters: Gaussian, Sobel, and Median filters. The main objective is to demonstrate their functionalities in the following areas:
 
