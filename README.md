@@ -1,4 +1,5 @@
 # Image Filtering with Gaussian, Sobel and Median Filters
+---
 ### Aim
 This project applies and analyzes the effects of three key image processing filters: Gaussian, Sobel, and Median filters. The main objective is to demonstrate their functionalities in the following areas:
 
@@ -6,6 +7,7 @@ Noise Reduction
 Edge Detection
 Noise Removal
 Filters
+
 1. Gaussian Filter
 The Gaussian filter is used to blur images, which helps in reducing noise. It works by applying a weighted average based on a Gaussian distribution, making it effective at smoothing out high-frequency noise.
 
